@@ -1,5 +1,4 @@
-# Weather
- 
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -62,7 +61,9 @@ To run this application, install with git clone
 
 After installation open the file in an editor, use the run function. 
 
-[usagesRun]
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][usagesRun]](https://example.com)
 
 The weather report wil be shown in your code runner.
 
