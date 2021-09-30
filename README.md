@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-
+  <img src="images/weatherIcon.png" alt="Logo" width="80" height="80">
   <h3 align="center">Weather app</h3>
      <br />
     <br />
@@ -25,7 +25,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -40,11 +40,6 @@ A simple weather app created with python, the aim of the application is to be ab
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-#Dependencies
-
-The application 
-
   
 
 ### Installation
@@ -62,12 +57,11 @@ To run this application, install with git clone
 After installation open the file in an editor, use the run function. 
 
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-[![Product Name Screen Shot][usagesRun]](https://example.com)
+[![Usage run screenshot][usagesRun]]
 
 The weather report wil be shown in your code runner.
 
-[usagesResult]
+[![Usage result screenshot][usagesResult]]
 
 
 
