@@ -18,11 +18,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#Dependencies">Dependencies</a></li>
-        <li><a href="#installation">Installation</a></li> 
-      </ul>
+    <li><a href="#installation">Installation</a></li>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -34,14 +30,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A simple weather app created with python, the aim of the application is to be able to search for any city and get a weather report from this city.  First the application finds the city's longtitude and latitude with href="https://geopy.readthedocs.io/en/stable/">Geopy</a>. Then gets the weather data from href="https://openweathermap.org/">OpenWeatherMap</a>. Lastly the app gives the weather report.
+A simple weather app created with python, the aim of the application is to be able to search for any city and get a weather report from this city.  First the application finds the city's longtitude and latitude with href="https://geopy.readthedocs.io/en/stable/">GeoPy</a>. Then gets the weather data from href="https://openweathermap.org/">OpenWeatherMap</a>. Lastly the app gives the weather report.
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
-  
-
+<!-- Installation -->
 ### Installation
 
 To run this application, install with git clone
@@ -57,17 +50,18 @@ To run this application, install with git clone
 After installation open the file in an editor, use the run function. 
 
 
-[![Usage run screenshot][usagesRun]]
+![Usage run screenshot][usagesRun]
 
 The weather report wil be shown in your code runner.
 
-[![Usage result screenshot][usagesResult]]
+![Usage result screenshot][usagesResult]
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-
+* [OpenWeatherMap](https://openweathermap.org/)
+* [GeoPy](https://geopy.readthedocs.io/en/stable/)
 
 
 <!-- IMAGES -->
