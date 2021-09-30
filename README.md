@@ -30,7 +30,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A simple weather app created with python, the aim of the application is to be able to search for any city and get a weather report from this city.  First the application finds the city's longtitude and latitude with href="https://geopy.readthedocs.io/en/stable/">GeoPy</a>. Then gets the weather data from href="https://openweathermap.org/">OpenWeatherMap</a>. Lastly the app gives the weather report.
+A simple weather app created with python, the aim of the application is to be able to search for any city and get a weather report from this city.  First the application finds the city's longtitude and latitude with <a href="https://geopy.readthedocs.io/en/stable/">GeoPy</a>. Then gets the weather data from <a href="https://openweathermap.org/">OpenWeatherMap</a>. Lastly the app gives the weather report.
 
 
 
