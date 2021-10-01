@@ -17,9 +17,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li>
     <li><a href="#installation">Installation</a></li>
-    </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -30,7 +28,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A simple weather app created with python, the aim of the application is to be able to search for any city and get a weather report from this city.  First the application finds the city's longtitude and latitude with <a href="https://geopy.readthedocs.io/en/stable/">GeoPy</a>. Then gets the weather data from <a href="https://openweathermap.org/">OpenWeatherMap</a>. Lastly the app gives the weather report.
+A simple weather app created with python. The application is made to be able to search for any city and get a weather report from this city. First the application finds the city's longitude and latitude with help from href="https://geopy.readthedocs.io/en/stable/">GeoPy/a>. Then gets the weather data from an API key from href="https://openweathermap.org/">OpenWeatherMap/a>. Lastly the app takes the data from the API and gives a weather report. 
+
+  
+
+I started this project with the aim of becoming more familiar with API keys and how to get and use the data from one. During the project I had to find longitude and latitude from a city. The solution was GeoPy and I then also got to learn a little about geocoding. After the project I will say that the project was both interesting, enjoyable and I am happy with the result. 
 
 
 
@@ -47,7 +49,7 @@ To run this application, install with git clone
 ## Usage
 
 
-After installation open the file in an editor, use the run function. 
+After installation open the file in an editor, then use the run function. 
 
 
 ![Usage run screenshot][usagesRun]
