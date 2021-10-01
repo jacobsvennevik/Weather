@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A simple weather app created with python. The application is made to be able to search for any city and get a weather report from this city. First the application finds the city's longitude and latitude with help from <a href="https://geopy.readthedocs.io/en/stable/">GeoPy/a>. Then gets the weather data from an API key from <a href="https://openweathermap.org/">OpenWeatherMap/a>. Lastly the app takes the data from the API and gives a weather report. 
+A simple weather app created with python. The application is made to be able to search for any city and get a weather report from this city. First the application finds the city's longitude and latitude with help from <a href="https://geopy.readthedocs.io/en/stable/">GeoPy</a>. Then gets the weather data from an API key from <a href="https://openweathermap.org/">OpenWeatherMap</a>. Lastly the app takes the data from the API and gives a weather report. 
 
   
 
